@@ -1,4 +1,5 @@
-# Aquakidz
+# aquakidz
+
 Aquakidz.cc for svømmeopplæring og livredningskurser
 svømmekurs i tvedestrand
 svømmekurs i åmli
